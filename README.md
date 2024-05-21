@@ -1,6 +1,7 @@
 # IOT-Fish-Farrming-Monitoring-System
 
 IoT-Based Fish Farming using Blynk
+
 Welcome to the IoT-Based Fish Farming project! This repository contains code and instructions for creating an intelligent fish farming system using the Blynk platform. The system monitors pH, salinity, Total Dissolved Solids (TDS), and temperature using an Arduino Uno and various sensors. This project is designed to help fish farmers maintain optimal water conditions, ensuring healthy and productive fish farming.
 
 Features
