@@ -1,4 +1,4 @@
-# IOT-Fish-Farrming-Monitoring-System
+# IOT-Fish-Farming-Monitoring-System
 
 IoT-Based Fish Farming using Blynk
 
