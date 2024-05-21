@@ -12,9 +12,9 @@ Blynk Integration: Real-time monitoring and control through the Blynk mobile app
 
 Components
 
-Arduino Uno: The microcontroller used to interface with the sensors and the Blynk platform.
-pH Sensor: Measures the acidity or alkalinity of the water.
-Salinity Sensor: Detects the salt concentration in the water.
-TDS Sensor: Measures the concentration of dissolved solids in the water.
-Temperature Sensor: Monitors the water temperature.
-Blynk App: Used for real-time monitoring and control.
+Arduino Uno: The microcontroller used to interface with the sensors and the Blynk platform.//
+pH Sensor: Measures the acidity or alkalinity of the water.//
+Salinity Sensor: Detects the salt concentration in the water.//
+TDS Sensor: Measures the concentration of dissolved solids in the water//
+Temperature Sensor: Monitors the water temperature.//
+Blynk App: Used for real-time monitoring and control.//
